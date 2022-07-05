@@ -18,3 +18,10 @@ button {
    border: none;
    font-weight: bold;
 }
+
+delete-btn {
+   background: #5f9341 ;
+   color: white;
+   border: none;
+   font-weight: bold;
+}
