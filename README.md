@@ -12,7 +12,6 @@
 
 Here're some of the project's best features:
 
-*   It has a input box and three buttons.
 *   It saves the link one has currently opened by clicking save tab.
 *   Can save the input data by clicking Save Input button.
 *   We can delete the DOM's data by using Delete All button.
